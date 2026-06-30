@@ -1,0 +1,10 @@
+**
+!appsscript.json
+!apps-script/
+!apps-script/config.gs
+!apps-script/menu.gs
+!apps-script/utils.gs
+!apps-script/twse.gs
+!apps-script/etf.gs
+!apps-script/dashboard.gs
+!apps-script/analysis.gs
